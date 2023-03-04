@@ -1,0 +1,37 @@
+body{
+    background-color: #000;
+    color: aliceblue;
+}
+.ley-out{
+    padding: 25px;
+    margin: 0 auto;
+    background-color: rgba(10, 10, 205, 0.3);;
+    border-radius: 10px;
+    width: 1000px;
+    height: 500px;
+    display: grid;
+    grid-gap:1em;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    
+}
+.target{
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding:1em;
+    border: 1px solid #000;
+    border-radius: 10px;
+    background-color:  rgba(245, 245, 247, 0.3);
+    text-align: center;
+    background-size: cover;
+  
+}
+h2 {
+    margin-left: 20%;
+    display: inline-block;
+}
+
+h1{
+    background-color: blueviolet;
+    border-radius: 20px;
+    text-align: center;
+}
